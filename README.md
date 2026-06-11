@@ -6,7 +6,7 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-93.3%25-brightgreen?style=for-the-badge)
 
 > Classifying iris flower species using **Logistic Regression** and **Decision Tree** based on sepal and petal measurements.  
-> Built as part of the **SyntecxHub Machine Learning Track — Week 1 Project**.
+> Built as part of the **SyntecxHub Machine Learning Track — Week 2 Project**.
 
 ---
 
